@@ -27,7 +27,7 @@ export default function Incidents() {
         }
 
         if (total > 0 && incidents.lenght == total) {
-            return;
+            return; ip
         }
 
         setLoading(true);
